@@ -152,6 +152,8 @@ L<Minion::Command::minion::job>.
 
   $ ./myapp.pl minion job
 
+=head1 GROWING
+
 And as your application grows, you can move tasks into application specific
 plugins.
 
